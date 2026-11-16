@@ -1,0 +1,8 @@
+/.idea/
+/.venv/
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
+/data/
+/artifacts/
+/notebooks/Project-Definition3-digikala-review-transformer-fastapi-v2.ipynb

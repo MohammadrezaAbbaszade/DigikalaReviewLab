@@ -1,0 +1,11 @@
+{
+  "source_url": "https://huggingface.co/datasets/RadeAI/Digikala_comments_products",
+  "revision": "89c3133b169c8d3793db8834f56f32fee33d9db0",
+  "archive": "data/raw/digikala.rar",
+  "archive_sha256": "c854de8292f05814287a2c85a7d4e60982e167b8a59cfc9289957220b4662557",
+  "download_bytes": 250155668,
+  "extracted_files": {
+    "digikala-comments.csv": 1278526959,
+    "digikala-products.csv": 258733765
+  }
+}
